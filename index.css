@@ -59,8 +59,6 @@ button {
 } 
 
 #library-stats-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-content: center;
+    padding-top: 100px;
+
 }
