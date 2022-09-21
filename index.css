@@ -58,7 +58,7 @@ button {
     margin: auto;
 } 
 
-#stat-increment-container {
+#library-stats-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
