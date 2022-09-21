@@ -58,3 +58,7 @@ button {
     margin: auto;
 } 
 
+#stat-increment-container {
+    max-width: 80%;
+    margin: auto;
+}
