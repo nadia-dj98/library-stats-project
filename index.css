@@ -59,6 +59,8 @@ button {
 } 
 
 #stat-increment-container {
-    max-width: 80%;
-    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
 }
